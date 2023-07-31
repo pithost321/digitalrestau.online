@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'RestauApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EADFC1597674EB19D9BF40C899A07E2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40C89EB0C6FE4B2AA68A6ABEEC96EA44 }}
           package: .
