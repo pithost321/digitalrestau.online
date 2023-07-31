@@ -60,4 +60,4 @@ sail artisan translation:sync-missing-translation-keys
 
 
 ## Default .env
-[.env](https://paste.laravel.io/2fe670c7-f66b-443e-9e79-b5fa6618360b)
+[.env](https://paste.laravel.io/2fe670c7-f66b-443e-9e79-b5fa6618360b)# digital.online2
